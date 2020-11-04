@@ -2824,3 +2824,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-08.17.58:202][235]LogSavePackage: Moving '../../../../../../../Keshav/Programming Languages/UnrealEngine/3D/01Assignment3/Assignment3/Saved/ThirdPersonExampleMap_Auto6FCA6ABB843CF39AE09FE5896DA6A2EF2.tmp' to '../../../../../../../Keshav/Programming Languages/UnrealEngine/3D/01Assignment3/Assignment3/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
 [2020.11.04-08.17.58:203][235]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
 [2020.11.04-08.17.58:203][235]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.11.04-08.18.46:947][928]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.11.04-08.18.47:015][928]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.11.04-08.18.47:453][945]LogSavePackage: Moving '../../../../../../../Keshav/Programming Languages/UnrealEngine/3D/01Assignment3/Assignment3/Saved/ThirdPersonCharacterC5558C2B4D4CB5E97F67C48236A7DCF7.tmp' to '../../../../../../../Keshav/Programming Languages/UnrealEngine/3D/01Assignment3/Assignment3/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.04-08.18.47:470][945]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.11.04-08.18.47:470][945]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
